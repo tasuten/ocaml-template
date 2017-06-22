@@ -1,0 +1,6 @@
+# Subdirectory
+# "src/foo": include
+
+# packages
+# true: use_menhir, package(foobar)
+
